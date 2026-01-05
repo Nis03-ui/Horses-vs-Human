@@ -23,6 +23,6 @@ This project uses a **Convolutional Neural Network (CNN)** to classify images as
 
 ## 📂 Dataset
 Horses or Humans dataset  
-(Source: TensorFlow dataset)
+(Source: Kaggle dataset)
 
 Directory structure:
